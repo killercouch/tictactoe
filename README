@@ -1,0 +1,15 @@
+# Tic Tac Toe
+
+This is a simple Tic Tac Toe game implemented in Python. The game allows two players to play against each other on a 3x3 grid.
+
+## How to Play
+
+1. Run the `tictactoe.py` script.
+2. Players take turns to enter their moves.
+3. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
+
+## Requirements
+
+- Python 3.x
+
+## Running the Game
